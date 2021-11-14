@@ -18,7 +18,7 @@ HOW TO USE THE ATM:
     - customer.py
     - atm_card.py
     - atm_program.py
-    which is linked in the repository
+    * which is linked in the repository
 2. And then you just run the program from atm_program.py (this is the main code for the app and contains imported code from
     customer.py & atm_card.py).
 
