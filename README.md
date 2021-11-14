@@ -5,13 +5,13 @@ Well this is very self explanatory, it is basically a mini ATM that you can play
 
 Feature of this Mini ATM includes:
 
-  1.Check Pin
-  2.Change Pin
-  3.Check Balance
-  4.Debit / Withdraw
-  5.Save / Deposit
-  6.Get out
-  7.Print transaction summary
+  1. Check Pin
+  2. Change Pin
+  3. Check Balance
+  4. Debit / Withdraw
+  5. Save / Deposit
+  6. Get out
+  7. Print transaction summary
 
 When you first enter this ATM you will be required to insert yout PIN
 Here is your first default PIN that i have created. There is also a
