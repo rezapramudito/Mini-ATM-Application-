@@ -69,7 +69,7 @@ while True:
             print("Resi tercetak otomatis saat anda keluar.\n Harap simpan tanda terima ini \n sebagai bukti transaksi anda.") 
             print("No. Rekord: ", random.randint(100000, 1000000)) 
             print("Tanggal: ", datetime.datetime.now()) 
-            print("Saldo akhir: ", atm.checkBalance()) 
+            print("Saldo akhir: Rp. ", atm.checkBalance()) 
             print("Terima kasih telah menggunakan ATM Bank Reza Pramudito!") 
             exit()
 
