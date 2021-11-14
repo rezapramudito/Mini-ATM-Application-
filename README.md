@@ -14,10 +14,10 @@ Feature of this Mini ATM includes:
   7.Print transaction summary
 
 When you first enter this ATM you will be required to insert yout PIN
-Here is your first default PIN that i have created
+Here is your first default PIN that i have created. There is also a
+default balance that you should know
 
   The Default PIN: 1234
+  The Default Balance: 10000
 
-                                                                                  Thank You
-
-                                                                                Reza Pramudito
+                                                                                 
