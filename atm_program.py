@@ -75,7 +75,3 @@ while True:
 
         else:
            print("Error. Maaf, menu tidak tersedia")
-
-            
-        
-        
