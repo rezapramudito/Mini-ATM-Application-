@@ -1,6 +1,6 @@
 # Mini-ATM-Application-
 # Please Read This Carefully
-Hello, world This is my first python project and also my first time utilizing python programming language in practical manner. 
+Hello world, This is my first python project and also my first time utilizing python programming language in practical manner. 
 Well this is very self explanatory, it is basically a mini ATM that you can play around with. 
 Feature of this Mini ATM includes:
 
