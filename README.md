@@ -28,6 +28,6 @@ Here is your first default PIN that i have created. There is also a
 default balance that you should know
 
   * The Default PIN: 1234
-  * The Default Balance: 10000
+  * The Default Balance: Rp. 10000
 
                                                                                  
